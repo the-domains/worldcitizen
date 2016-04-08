@@ -1,7 +1,7 @@
 name: WorldCitizen
 favicon: null
-layout_spectrum: 0.961865640245378
-typography_spectrum: 0.39887908450327814
+layout_spectrum: 0.7292
+typography_spectrum: 0.86139
 title: Networking For Peace - Where seeking minds meet
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.7959986936766654
-  lightness: 0.8092534393072128
-  saturation: 0.9942905975040048
-  rhythmicContrast: 0.05414691078476608
+    - '#ffffff'
+    - '#385800'
+    - '#212121'
+    - '#c19d65'
+    - '#b4da37'
+  brandStrength: 0.875
+  lightness: 0.75
+  saturation: 0.875
+  rhythmicContrast: 1
 purpose: []
